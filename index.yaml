@@ -3,6 +3,131 @@ entries:
   minecraft:
   - apiVersion: v1
     appVersion: SeeValues
+    created: "2020-12-09T02:40:25.215744606Z"
+    description: Minecraft server
+    digest: a10d3a6b7f15f896405af2e8062208b4ae3bad6d96dc6cefad97bb28491d85d3
+    home: https://minecraft.net/
+    keywords:
+    - game
+    - server
+    maintainers:
+    - email: gtaylor@gc-taylor.com
+      name: gtaylor
+    - email: jeff@billimek.com
+      name: billimek
+    - email: itzgeoff@gmail.com
+      name: itzg
+    name: minecraft
+    sources:
+    - https://github.com/itzg/minecraft-server-charts
+    - https://hub.docker.com/r/itzg/minecraft-server/~/dockerfile/
+    - https://github.com/itzg/docker-minecraft-server
+    - https://github.com/itzg/docker-minecraft-bedrock-server
+    urls:
+    - https://github.com/itzg/minecraft-server-charts/releases/download/minecraft-2.0.13/minecraft-2.0.13.tgz
+    version: 2.0.13
+  - apiVersion: v1
+    appVersion: SeeValues
+    created: "2020-11-30T17:57:24.897135123Z"
+    description: Minecraft server
+    digest: eda95f888a0ede38d6e32ea624ff832bb59f9807bd5f369a3304073a70116249
+    home: https://minecraft.net/
+    keywords:
+    - game
+    - server
+    maintainers:
+    - email: gtaylor@gc-taylor.com
+      name: gtaylor
+    - email: jeff@billimek.com
+      name: billimek
+    - email: itzgeoff@gmail.com
+      name: itzg
+    name: minecraft
+    sources:
+    - https://github.com/itzg/minecraft-server-charts
+    - https://hub.docker.com/r/itzg/minecraft-server/~/dockerfile/
+    - https://github.com/itzg/docker-minecraft-server
+    - https://github.com/itzg/docker-minecraft-bedrock-server
+    urls:
+    - https://github.com/itzg/minecraft-server-charts/releases/download/minecraft-2.0.12/minecraft-2.0.12.tgz
+    version: 2.0.12
+  - apiVersion: v1
+    appVersion: SeeValues
+    created: "2020-11-24T03:09:53.780258115Z"
+    description: Minecraft server
+    digest: 42aa98623cad03dad4b9ea70d9d1fe2d64fb0aa64bf5affe7de148778ead0f23
+    home: https://minecraft.net/
+    keywords:
+    - game
+    - server
+    maintainers:
+    - email: gtaylor@gc-taylor.com
+      name: gtaylor
+    - email: jeff@billimek.com
+      name: billimek
+    - email: itzgeoff@gmail.com
+      name: itzg
+    name: minecraft
+    sources:
+    - https://github.com/itzg/minecraft-server-charts
+    - https://hub.docker.com/r/itzg/minecraft-server/~/dockerfile/
+    - https://github.com/itzg/docker-minecraft-server
+    - https://github.com/itzg/docker-minecraft-bedrock-server
+    urls:
+    - https://github.com/itzg/minecraft-server-charts/releases/download/minecraft-2.0.11/minecraft-2.0.11.tgz
+    version: 2.0.11
+  - apiVersion: v1
+    appVersion: SeeValues
+    created: "2020-11-19T00:05:35.732838864Z"
+    description: Minecraft server
+    digest: 9d7b030ee5420e7ff43c4c31975f65efd582606dc7dad0f3a4026bc2ddbb6e11
+    home: https://minecraft.net/
+    keywords:
+    - game
+    - server
+    maintainers:
+    - email: gtaylor@gc-taylor.com
+      name: gtaylor
+    - email: jeff@billimek.com
+      name: billimek
+    - email: itzgeoff@gmail.com
+      name: itzg
+    name: minecraft
+    sources:
+    - https://github.com/itzg/minecraft-server-charts
+    - https://hub.docker.com/r/itzg/minecraft-server/~/dockerfile/
+    - https://github.com/itzg/docker-minecraft-server
+    - https://github.com/itzg/docker-minecraft-bedrock-server
+    urls:
+    - https://github.com/itzg/minecraft-server-charts/releases/download/minecraft-2.0.10/minecraft-2.0.10.tgz
+    version: 2.0.10
+  - apiVersion: v1
+    appVersion: SeeValues
+    created: "2020-11-11T19:42:16.208087044Z"
+    description: Minecraft server
+    digest: 5aa6f1ea40ce67186def0d8609d613e0d4554df6064140b5c60f2b16e92d51fb
+    home: https://minecraft.net/
+    keywords:
+    - game
+    - server
+    maintainers:
+    - email: gtaylor@gc-taylor.com
+      name: gtaylor
+    - email: jeff@billimek.com
+      name: billimek
+    - email: itzgeoff@gmail.com
+      name: itzg
+    name: minecraft
+    sources:
+    - https://github.com/itzg/minecraft-server-charts
+    - https://hub.docker.com/r/itzg/minecraft-server/~/dockerfile/
+    - https://github.com/itzg/docker-minecraft-server
+    - https://github.com/itzg/docker-minecraft-bedrock-server
+    urls:
+    - https://github.com/itzg/minecraft-server-charts/releases/download/minecraft-2.0.9/minecraft-2.0.9.tgz
+    version: 2.0.9
+  - apiVersion: v1
+    appVersion: SeeValues
     created: "2020-10-24T20:04:26.965440865Z"
     description: Minecraft server
     digest: 372dcf31017f6101cee13f51d28f5144994257e3cb9d5320c3024461677c1766
@@ -221,6 +346,78 @@ entries:
     - https://github.com/itzg/minecraft-server-charts/releases/download/minecraft-2.0.0/minecraft-2.0.0.tgz
     version: 2.0.0
   minecraft-bedrock:
+  - apiVersion: v1
+    appVersion: "1.16"
+    created: "2020-11-24T03:09:53.930521998Z"
+    description: Minecraft server
+    digest: cc1ac7d9a549e857f20c8fc5944e4daf682d6975f277eca08a30bee890d9fc2f
+    home: https://minecraft.net/
+    keywords:
+    - game
+    - server
+    maintainers:
+    - email: gtaylor@gc-taylor.com
+      name: gtaylor
+    - email: jeff@billimek.com
+      name: billimek
+    - email: itzgeoff@gmail.com
+      name: itzg
+    name: minecraft-bedrock
+    sources:
+    - https://github.com/itzg/minecraft-server-charts
+    - https://hub.docker.com/r/itzg/minecraft-bedrock-server/~/dockerfile/
+    - https://github.com/itzg/dockerfiles
+    urls:
+    - https://github.com/itzg/minecraft-server-charts/releases/download/minecraft-bedrock-1.1.6/minecraft-bedrock-1.1.6.tgz
+    version: 1.1.6
+  - apiVersion: v1
+    appVersion: "1.16"
+    created: "2020-11-11T19:42:16.321358328Z"
+    description: Minecraft server
+    digest: 070954b709cf9838ea624cc075693f5b577039c65f327bd0868e3dedc1dd73a3
+    home: https://minecraft.net/
+    keywords:
+    - game
+    - server
+    maintainers:
+    - email: gtaylor@gc-taylor.com
+      name: gtaylor
+    - email: jeff@billimek.com
+      name: billimek
+    - email: itzgeoff@gmail.com
+      name: itzg
+    name: minecraft-bedrock
+    sources:
+    - https://github.com/itzg/minecraft-server-charts
+    - https://hub.docker.com/r/itzg/minecraft-bedrock-server/~/dockerfile/
+    - https://github.com/itzg/dockerfiles
+    urls:
+    - https://github.com/itzg/minecraft-server-charts/releases/download/minecraft-bedrock-1.1.5/minecraft-bedrock-1.1.5.tgz
+    version: 1.1.5
+  - apiVersion: v1
+    appVersion: "1.16"
+    created: "2020-11-03T22:24:10.4371478Z"
+    description: Minecraft server
+    digest: 24c23935a9b17a0b96b97fcf02e59c145aa170b179cccdaab096f586e1feefd0
+    home: https://minecraft.net/
+    keywords:
+    - game
+    - server
+    maintainers:
+    - email: gtaylor@gc-taylor.com
+      name: gtaylor
+    - email: jeff@billimek.com
+      name: billimek
+    - email: itzgeoff@gmail.com
+      name: itzg
+    name: minecraft-bedrock
+    sources:
+    - https://github.com/itzg/minecraft-server-charts
+    - https://hub.docker.com/r/itzg/minecraft-bedrock-server/~/dockerfile/
+    - https://github.com/itzg/dockerfiles
+    urls:
+    - https://github.com/itzg/minecraft-server-charts/releases/download/minecraft-bedrock-1.1.4/minecraft-bedrock-1.1.4.tgz
+    version: 1.1.4
   - apiVersion: v1
     appVersion: "1.16"
     created: "2020-07-13T21:48:51.9397663Z"
